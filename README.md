@@ -3,7 +3,7 @@ Flutter &amp; Dart - The Complete Guide [2021 Edition]
 
 ### Certifications
 
-- [Flutter & Dart](https://nlb.udemy.com/certificate/UC-cee57956-82d9-4491-9042-9cbeaf988bc7/)
+- [Flutter & Dart](https://udemy.com/certificate/UC-cee57956-82d9-4491-9042-9cbeaf988bc7/)
 
 ### Awknowledgements
 
